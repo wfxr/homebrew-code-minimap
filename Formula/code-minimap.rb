@@ -4,10 +4,10 @@
 class CodeMinimap < Formula
   desc "A high performance code minimap generator written in rust"
   homepage "https://github.com/wfxr/code-minimap"
-  url "https://github.com/wfxr/code-minimap/releases/download/v0.4.1/code-minimap-v0.4.1-x86_64-apple-darwin.tar.gz"
-  sha256 "37816cbcce53c0cd31bcf881cee889ab784c8c779bb9db2ebed8465bc29374f3"
+  url "https://github.com/wfxr/code-minimap/releases/download/v0.4.2/code-minimap-v0.4.2-x86_64-apple-darwin.tar.gz"
+  sha256 "2a85ed99f5855439f3e6dee25d01f0de03be8e6332773e4ac402105b2a7298b8"
   license "MIT/APACHE-2.0"
-  version "0.4.1"
+  version "0.4.2"
 
   def install
     bin.install "code-minimap"
