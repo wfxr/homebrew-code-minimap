@@ -1,4 +1,4 @@
-PKGVER = 0.5.0
+PKGVER = 0.5.1
 PKGURL = https://github.com/wfxr/code-minimap/releases/download/v$(PKGVER)/code-minimap-v$(PKGVER)-x86_64-apple-darwin.tar.gz
 
 .PHONY: codegen
